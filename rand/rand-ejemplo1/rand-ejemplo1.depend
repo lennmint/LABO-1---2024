@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728253813 source:c:\users\ayelen\desktop\labo 1 (2024 - 2do 4tri)\recuperatorio - c\rand\rand-ejemplo1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

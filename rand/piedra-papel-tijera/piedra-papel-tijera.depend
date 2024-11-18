@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728337182 source:c:\users\ayelen\desktop\labo 1 (2024 - 2do 4tri)\recuperatorio - c\rand\piedra-papel-tijera\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
